@@ -48,7 +48,7 @@ header {
   background-repeat: no-repeat;
   background-position: left center;
   -webkit-background-size: cover;
-  -moz-background-size: cover%;
+  -moz-background-size: cover;
   background-size: cover;
   margin-bottom: 1em;
   text-align: center;
@@ -62,8 +62,7 @@ header h1 {
   margin: 0;
   letter-spacing: 1px;
   opacity: 1;
-  text-shadow: 0 3px 0 rgba(0,0,0, 0.
-    5);
+  text-shadow: 0 3px 0 rgba(0,0,0,0.5);
   position: relative;
   top: 250px;
   font-weight: 300;
